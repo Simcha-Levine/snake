@@ -633,4 +633,4 @@ function keyDown(e) {
 }
 
 // draw()
-var interval = setInterval(draw, 10)
+var interval = setInterval(draw, 50)
